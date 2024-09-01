@@ -4,7 +4,7 @@
 Ce kit de démarrage FullStack Serverless est conçu pour développer rapidement des applications web modernes et évolutives. Il combine un backend en Node.js avec un frontend en React, tout en utilisant des technologies serverless pour simplifier la gestion et améliorer la scalabilité.
 ✨ Caractéristiques principales
 
-    Backend serverless : Développé avec Node.js et Express.js, déployable sur AWS Lambda.
+    Backend serverless : Développé avec Node.js et Express.js
     Base de données serverless : Intégration avec Neon Postgres.
     ORM moderne : Utilisation de Prisma pour une interaction type-safe et simplifiée avec la base de données.
     API RESTful : Implémentation complète avec des opérations CRUD.
